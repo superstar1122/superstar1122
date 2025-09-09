@@ -41,11 +41,18 @@ As a dedicated and results-driven web engineer, I have spent the past seven year
 ## 📫 How to Reach Me
 
 - Email: [sharaneduard8@gmail.com](sharaneduard8@gmail.com)
-- Portfolio: 
+- Portfolio:
+
+  [https://www.alambystyle.com](https://www.alambystyle.com)
+  
+  [https://www.sisterwives.com](https://www.sisterwives.com)
+
+  [https://www.cityandshireinsurance](https://www.cityandshireinsurance)
 
   [https://www.cuipid.com.uk](https://www.cuipid.com.uk)
 
   [https://www.q-park.co.uk](https://www.q-park.co.uk)
 
 ---
+
 
