@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-As a dedicated and results-driven web engineer, I have spent the past seven years crafting performant, secure, and scalable web solutions. My expertise lies in bridging the gap between beautiful UI and robust backend architecture, delivering seamless experiences for users and businesses alike.
+### As a dedicated and results-driven web engineer, I have spent the past seven years crafting performant, secure, and scalable web solutions. My expertise lies in bridging the gap between beautiful UI and robust backend architecture, delivering seamless experiences for users and businesses alike.
 
-- 💻 **Web Engineer** with 7+ years of experience building scalable web applications.
-- 🛠️ Expert in front-end and back-end development.
-- 🚀 Always exploring new frameworks and technologies.
-- 👥 Passionate about collaboration and learning.
+#### - 💻 **Web Engineer** with 7+ years of experience building scalable web applications.
+#### - 🛠️ Expert in front-end and back-end development.
+#### - 🚀 Always exploring new frameworks and technologies.
+#### - 👥 Passionate about collaboration and learning.
 
 ---
 
@@ -137,25 +137,27 @@ As a dedicated and results-driven web engineer, I have spent the past seven year
 
 ## 🌟 What I’m Working On
 
-- Improving web performance and accessibility.
-- Building scalable backend solutions.
-- Experimenting with new JavaScript frameworks.
+#### - Improving web performance and accessibility.
+#### - Building scalable backend solutions.
+#### - Experimenting with new JavaScript frameworks.
 
 ---
 
 ## 📫 How to Reach Me
 
-- Email: [sharaneduard8@gmail.com](sharaneduard8@gmail.com)
-- Portfolio:
+####  - Email Address: [sharaneduard8@gmail.com](sharaneduard8@gmail.com)
 
-  [https://www.alambystyle.com](https://www.alambystyle.com)
+####  - Whatsapp Phone Number: [SuperStar: +1 (270) 213-9496](https://wa.me/12702139496)
+## - Portfolio:
 
-  [https://www.sisterwives.com](https://www.sisterwives.com)
+####  [https://www.alambystyle.com](https://www.alambystyle.com)
 
-  [https://www.cityandshireinsurance](https://www.cityandshireinsurance)
+####  [https://www.sisterwives.com](https://www.sisterwives.com)
 
-  [https://www.cuipid.com.uk](https://www.cuipid.com.uk)
+####  [https://www.cityandshireinsurance](https://www.cityandshireinsurance)
 
-  [https://www.q-park.co.uk](https://www.q-park.co.uk)
+####  [https://www.cuipid.com.uk](https://www.cuipid.com.uk)
+
+####  [https://www.q-park.co.uk](https://www.q-park.co.uk)
 
 ---
