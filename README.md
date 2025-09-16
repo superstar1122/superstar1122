@@ -144,9 +144,6 @@
 ---
 
 ## 📫 How to Reach Me
-
-####  - Email Address: [sharaneduard8@gmail.com](sharaneduard8@gmail.com)
-
 ####  - Whatsapp Phone Number: [SuperStar: +1 (270) 213-9496](https://wa.me/12702139496)
 ## - Portfolio:
 
