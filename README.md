@@ -145,6 +145,7 @@
 
 ## 📫 How to Reach Me
 ####  - Whatsapp Phone Number: [SuperStar: +1 (270) 213-9496](https://wa.me/12702139496)
+####  - Telegram identity: [@shinysuperstar](https://t.me/shinysuperstar)
 ## - Portfolio:
 
 ####  [https://www.alambystyle.com](https://www.alambystyle.com)
@@ -158,3 +159,4 @@
 ####  [https://www.q-park.co.uk](https://www.q-park.co.uk)
 
 ---
+
